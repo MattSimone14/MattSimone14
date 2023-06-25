@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A passionate FullStack developer from the East Coast</h3>
 
-- 🔭 I’m currently working on an Email Sign-up Web Application **Email Sign-in**
+- 🔭 I’m currently working on an **Email Sign-up Web Application**
 
 - 🌱 I’m currently learning **React.js**
 
