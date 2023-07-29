@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **Matt.simone14@gmail.com**
+- 📫 How to reach me **mtsimone29@gmail.com**
 
 - ⚡ Fun fact **I love to kayak**
 
