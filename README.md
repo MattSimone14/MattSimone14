@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, express**
 
-- 📫 How to reach me **Matt.simone14@gmail.com**
+- 📫 How to reach me **Mtsimone29@gmail.com**
 
 - ⚡ Fun fact **I love to kayak**
 
